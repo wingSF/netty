@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NettyClient" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" singleton="false" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="com.wing.NettyClient" />
+    <module name="client" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

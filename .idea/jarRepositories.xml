@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="searchmaven" />
+      <option name="name" value="searchmaven" />
+      <option name="url" value="http://search.maven.org/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="conjars-repo" />
+      <option name="name" value="conjars Maven Repository" />
+      <option name="url" value="http://conjars.org/repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gilead-repo" />
+      <option name="name" value="Gilead Maven Repository" />
+      <option name="url" value="https://gilead.svn.sourceforge.net/svnroot/gilead/gilead/maven-repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="datanucleus" />
+      <option name="name" value="datanucleus" />
+      <option name="url" value="http://www.datanucleus.org/downloads/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo2" />
+      <option name="name" value="org.maven.repo1" />
+      <option name="url" value="http://repo2.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="kingsoft-releases" />
+      <option name="name" value="local private nexus" />
+      <option name="url" value="http://nexus.ksord.com/nexus/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="kingsoft-snapshots" />
+      <option name="name" value="local private nexus snapshots" />
+      <option name="url" value="http://nexus.ksord.com/nexus/content/repositories/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wpsnexus" />
+      <option name="name" value="wps nexus" />
+      <option name="url" value="http://nexus.ksord.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="pentaho-repo" />
+      <option name="name" value="pentaho Maven Repository" />
+      <option name="url" value="http://repository.pentaho.org/artifactory/repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="hibernat4gwt-repo" />
+      <option name="name" value="hibernat4gwt-repo" />
+      <option name="url" value="https://hibernate4gwt.svn.sourceforge.net/svnroot/hibernate4gwt/branches/jens_meiss/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="centralmaven" />
+      <option name="name" value="org.maven.repo1" />
+      <option name="url" value="http://central.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="alimaven" />
+      <option name="name" value="aliyun maven" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+  </component>
+</project>
